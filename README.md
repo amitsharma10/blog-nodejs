@@ -1,8 +1,8 @@
-# Blogger
+# Blog-Nodejs
 
 This is a basic Blogger clone to create a blog with comments.
 
-Time spent: 16 Hrs
+Time spent: 15 Hrs
 
 **Features**<BR/>
 **Required**<BR/>
@@ -28,6 +28,3 @@ Time spent: 16 Hrs
 [Pending] Public user profiles show their information, posts and comments<BR/>
 
 **Walkthrough**<BR/>
-Please zoom in if image is not visible. Sorry for inconvenience. (Image Location - https://github.com/vasupalanisamy/nodejs-blogger/blob/master/blogger-demo.gif)
-![alt tag](https://github.com/vasupalanisamy/nodejs-blogger/blob/master/blogger-demo.gif)
-# blog-nodejs
